@@ -4,11 +4,15 @@ https://halfhelix.atlassian.net/browse/{PROJECT-PREFIX}-XXX
 
 ### Preview Link
 
-This could be the Shopify theme preview link or a project-specific preview link
+Please include a link to a preview environment.
 
-### What does this PR do?
+### Description
 
-.
+Please include a summary of the change and which issue is fixed. List any dependencies that are required for this change.
+
+### Testing Steps
+
+Please provide instructions so we can reproduce.
 
 ### Type of change
 
