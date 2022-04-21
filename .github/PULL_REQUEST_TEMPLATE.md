@@ -4,7 +4,7 @@ https://halfhelix.atlassian.net/browse/{PROJECT-PREFIX}-XXX
 
 ### Preview Link
 
-This could include the Shopify theme preview link or say, a Netlify preview link
+This could be the Shopify theme preview link or a project-specific preview link
 
 ### What does this PR do?
 
